@@ -174,7 +174,7 @@ var render = function () {
      ctx.textBaseline = "top";
 
 
-     ctx.fillText("Goblins caught: " + monstersCaught, 32, 32);
+     ctx.fillText("Pokeballs Caught: " + monstersCaught, 32, 32);
 };
 
 // The main game loop
